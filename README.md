@@ -4,15 +4,6 @@ Reads a microdrama's timed screenplays and finds the best 20–60 second promos:
 
 Built for Kuku's AI Generalist assignment (Problem 1). Next.js + TypeScript, deployed on Vercel. The input pack is confidential, so **no screenplays or outputs are in this repo**. A short synthetic sample show (`public/sample_show/`) is included for demos and tests.
 
-## Deploy on Vercel (free)
-
-1. Push this folder to a GitHub repo.
-2. On vercel.com: **Add New → Project →** import the repo (framework: Next.js, no settings to change).
-3. **Settings → Environment Variables:** `GEMINI_API_KEY` = a free key from https://aistudio.google.com/apikey (make it in a project *without* billing, so it can never cost money).
-4. Deploy. Open the URL, click **Use the sample show → Find promos**.
-
-Optional: set `APP_ACCESS_CODE` so only people with the code can use your key; share the link as `https://<app>.vercel.app/?code=<code>`. Anyone can also paste their own key in the sidebar.
-
 ## Run locally
 
 ```bash
