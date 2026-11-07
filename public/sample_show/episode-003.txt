@@ -1,0 +1,170 @@
+EPISODE NUMBER: Episode 3
+EPISODE LOGLINE: At the board meeting Derek produces a forged document to strip Maya of the hotel, until a voice from the doorway changes everything.
+CONTINUITY NOTES: Two days later. Synthetic sample written for testing the promo finder; not a real show.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. GRAND AURELIA BOARDROOM – DAY
+Scene start: 00:00.00
+Scene end: 01:06.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.40)
+Wide shot of a long glass table; twelve board members in dark suits; Maya at the head of the table.
+
+**DEREK (Triumphant):**
+Start: (00:00.60) | End: (00:03.20)
+"Before we vote, the board should see this."
+
+**CAMERA:**
+Start: (00:03.40) | End: (00:06.80)
+Close-up on Derek sliding a document across the table.
+
+**DEREK (Smug):**
+Start: (00:03.60) | End: (00:06.60)
+"A doctor's letter. Arthur Aurelia was not of sound mind."
+
+**CAMERA:**
+Start: (00:06.80) | End: (00:10.20)
+Medium shot of board members murmuring and passing the letter.
+
+**BOARD MEMBER (Uneasy):**
+Start: (00:07.00) | End: (00:10.00)
+"If this is genuine, the will is void."
+
+**CAMERA:**
+Start: (00:10.20) | End: (00:13.60)
+Close-up on Maya reading the letter, her jaw tightening.
+
+**MAYA (Steady):**
+Start: (00:10.40) | End: (00:13.40)
+"This is dated the day after my grandfather's funeral."
+
+**CAMERA:**
+Start: (00:13.60) | End: (00:17.00)
+Close-up on Derek, a flicker of panic.
+
+**DEREK (Covering):**
+Start: (00:13.80) | End: (00:16.80)
+"A typo. It changes nothing."
+
+**ACTION:**
+Start: (00:17.00) | End: (00:18.40)
+Maya slams her palm flat on the glass table.
+
+**SOUND FX:**
+Start: (00:17.10) | End: (00:17.80)
+A sharp crack echoes through the boardroom.
+
+**CAMERA:**
+Start: (00:17.00) | End: (00:20.60)
+Low-angle shot of Maya rising to her feet.
+
+**MAYA (Commanding):**
+Start: (00:18.40) | End: (00:20.40)
+"It changes everything. It's a forgery."
+
+**CAMERA:**
+Start: (00:20.60) | End: (00:24.00)
+Medium shot of Vanessa, seated by the wall, gripping her handbag.
+
+**VANESSA (Defensive):**
+Start: (00:20.80) | End: (00:23.80)
+"You can't prove that. You're just a waitress with a lawyer."
+
+**CAMERA:**
+Start: (00:24.00) | End: (00:27.40)
+Close-up on Mr. Castell checking his watch.
+
+**MR. CASTELL (Calm):**
+Start: (00:24.20) | End: (00:27.20)
+"She doesn't have to prove it. Someone else will."
+
+**CAMERA:**
+Start: (00:27.40) | End: (00:31.00)
+Medium shot of the board chairman tapping the table.
+
+**CHAIRMAN (Impatient):**
+Start: (00:27.60) | End: (00:30.80)
+"Enough. All in favour of voiding the will?"
+
+**CAMERA:**
+Start: (00:31.00) | End: (00:34.40)
+Wide shot: hands begin to rise around the table, one by one.
+
+**ACTION:**
+Start: (00:31.00) | End: (00:34.40)
+Derek counts the raised hands, smiling wider with each one.
+
+**CAMERA:**
+Start: (00:34.40) | End: (00:37.80)
+Close-up on Maya watching the vote turn against her.
+
+**MAYA (Whispering):**
+Start: (00:34.60) | End: (00:37.40)
+"Grandpa... I'm sorry. I tried."
+
+**SOUND FX:**
+Start: (00:37.80) | End: (00:39.20)
+The boardroom doors swing open with a heavy thud.
+
+**CAMERA:**
+Start: (00:37.80) | End: (00:41.40)
+Wide shot of the doorway: a figure in a wheelchair, face hidden in shadow, pushed by a nurse.
+
+**VOICE FROM THE DOORWAY (Old, Strong):**
+Start: (00:39.40) | End: (00:41.20)
+"Put your hands down."
+
+**CAMERA:**
+Start: (00:41.40) | End: (00:44.80)
+Close-up on Derek, the smile sliding off his face.
+
+**DEREK (Stammering):**
+Start: (00:41.60) | End: (00:44.60)
+"That's impossible. We buried him."
+
+**CAMERA:**
+Start: (00:44.80) | End: (00:48.20)
+Close-up on Vanessa's handbag falling to the floor.
+
+**CAMERA:**
+Start: (00:48.20) | End: (00:52.00)
+Close-up on Maya, tears in her eyes, half rising from her chair.
+
+**MAYA (Breathless):**
+Start: (00:48.40) | End: (00:51.40)
+"Grandpa?"
+
+**CAMERA:**
+Start: (00:52.00) | End: (00:56.20)
+The wheelchair rolls into the light: an old man with Maya's eyes, holding a cane across his knees.
+
+**ARTHUR AURELIA (Grim):**
+Start: (00:52.40) | End: (00:56.00)
+"Derek Hale. You and I have a funeral to discuss."
+
+**CAMERA:**
+Start: (00:56.20) | End: (01:00.40)
+Close-up on Derek backing toward the window.
+
+**DEREK (Terrified):**
+Start: (00:56.40) | End: (01:00.00)
+"Sir, I can explain. It wasn't my idea."
+
+**CAMERA:**
+Start: (01:00.40) | End: (01:06.00)
+Slow push-in on Arthur turning his head toward Vanessa.
+
+**ARTHUR AURELIA (Quiet, Lethal):**
+Start: (01:00.60) | End: (01:04.80)
+"No. It was hers. Wasn't it, Vanessa?"
+
+**SOUND FX:**
+Start: (01:04.80) | End: (01:06.00)
+A sharp orchestral sting and cut to black.
+
+--- SCRIPT END ---

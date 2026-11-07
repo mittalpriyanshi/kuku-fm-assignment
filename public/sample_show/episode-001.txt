@@ -1,0 +1,186 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: Waitress Maya Reyes is humiliated at her ex-fiancé Derek's lavish engagement party, until a stranger in a grey suit arrives asking for her by name.
+CONTINUITY NOTES: First episode. Synthetic sample written for testing the promo finder; not a real show.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. GRAND AURELIA HOTEL BALLROOM – NIGHT
+Scene start: 00:00.00
+Scene end: 01:12.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.50)
+Wide shot of a glittering ballroom; guests in evening wear raise champagne flutes under a banner reading "Derek & Vanessa".
+
+**ACTION:**
+Start: (00:01.00) | End: (00:03.50)
+Maya, in a black waitress uniform, weaves through the crowd balancing a tray of wine glasses.
+
+**CAMERA:**
+Start: (00:03.50) | End: (00:06.80)
+Medium shot as Maya freezes, recognising the groom-to-be: Derek, in a tailored white tuxedo.
+
+**DEREK (Startled, Cold):**
+Start: (00:04.20) | End: (00:06.40)
+"Maya? You're working here?"
+
+**CAMERA:**
+Start: (00:06.80) | End: (00:10.20)
+Close-up on Maya forcing a polite smile.
+
+**MAYA (Quiet, Controlled):**
+Start: (00:07.00) | End: (00:09.80)
+"Congratulations, Derek. Wine?"
+
+**CAMERA:**
+Start: (00:10.20) | End: (00:13.60)
+Medium shot of Vanessa, the bride-to-be in a red sequined gown, sliding her arm through Derek's with a cruel smile.
+
+**VANESSA (Amused, Venomous):**
+Start: (00:10.50) | End: (00:13.40)
+"Oh, so this is the girl you almost married?"
+
+**CAMERA:**
+Start: (00:13.60) | End: (00:17.00)
+Close-up on Vanessa lifting a full glass of red wine from Maya's tray.
+
+**VANESSA (Mocking):**
+Start: (00:13.80) | End: (00:16.20)
+"Let me help you remember your place."
+
+**ACTION:**
+Start: (00:16.20) | End: (00:18.00)
+Vanessa throws the red wine straight into Maya's face.
+
+**SOUND FX:**
+Start: (00:16.30) | End: (00:17.20)
+Splash, followed by gasps and scattered laughter from the guests.
+
+**CAMERA:**
+Start: (00:17.00) | End: (00:20.40)
+Slow-motion close-up of wine dripping down Maya's face and uniform as phones rise to film her.
+
+**MAYA (Shaking, Stunned):**
+Start: (00:18.40) | End: (00:20.00)
+"Why would you do that?"
+
+**CAMERA:**
+Start: (00:20.40) | End: (00:23.80)
+Medium shot of Derek looking away, saying nothing.
+
+**VANESSA (Smirking):**
+Start: (00:20.60) | End: (00:23.60)
+"Because you look like you needed a drink."
+
+**CAMERA:**
+Start: (00:23.80) | End: (00:27.20)
+The hotel manager, a sweating man in a navy blazer, hurries over.
+
+**MANAGER (Panicked, Harsh):**
+Start: (00:24.00) | End: (00:27.00)
+"Reyes! You've ruined Mrs. Hale's evening. You're fired."
+
+**CAMERA:**
+Start: (00:27.20) | End: (00:30.80)
+Close-up on Maya, tears mixing with wine, untying her apron.
+
+**MAYA (Hurt, Proud):**
+Start: (00:27.60) | End: (00:30.40)
+"I've worked here six years. Six years."
+
+**MANAGER (Dismissive):**
+Start: (00:30.80) | End: (00:33.00)
+"And tonight was your last. Out."
+
+**CAMERA:**
+Start: (00:30.80) | End: (00:35.00)
+Wide shot of Maya turning toward the exit as the crowd parts, still laughing.
+
+**SOUND FX:**
+Start: (00:35.00) | End: (00:36.50)
+The ballroom doors bang open; the string quartet stops mid-note.
+
+**CAMERA:**
+Start: (00:35.00) | End: (00:39.00)
+Low-angle shot of a silver-haired man in a grey suit entering, flanked by two security guards.
+
+**MAN IN GREY SUIT (Commanding):**
+Start: (00:36.80) | End: (00:38.80)
+"Nobody leaves this room."
+
+**CAMERA:**
+Start: (00:39.00) | End: (00:42.40)
+Medium shot of the manager hurrying to him, suddenly obsequious.
+
+**MANAGER (Nervous):**
+Start: (00:39.20) | End: (00:42.00)
+"Mr. Castell! Sir, we weren't told the owner's lawyer was coming."
+
+**CAMERA:**
+Start: (00:42.40) | End: (00:46.00)
+Close-up on Mr. Castell scanning the room, ignoring him.
+
+**MR. CASTELL (Grave):**
+Start: (00:42.60) | End: (00:45.60)
+"I'm looking for Maya Reyes."
+
+**CAMERA:**
+Start: (00:46.00) | End: (00:49.50)
+Over-the-shoulder shot: every head turns toward Maya at the exit, wine-soaked and confused.
+
+**VANESSA (Laughing):**
+Start: (00:46.40) | End: (00:49.20)
+"The waitress? What did she steal?"
+
+**CAMERA:**
+Start: (00:49.50) | End: (00:53.00)
+Medium shot of Mr. Castell walking straight past Vanessa to Maya.
+
+**MR. CASTELL (Formal, Gentle):**
+Start: (00:50.00) | End: (00:52.80)
+"Ms. Reyes. Your grandfather was Arthur Aurelia."
+
+**CAMERA:**
+Start: (00:53.00) | End: (00:56.40)
+Close-up on Maya, stunned.
+
+**MAYA (Confused):**
+Start: (00:53.20) | End: (00:56.00)
+"Arthur Aurelia? The man who built this hotel?"
+
+**CAMERA:**
+Start: (00:56.40) | End: (01:00.20)
+Close-up on Mr. Castell holding out a sealed envelope.
+
+**MR. CASTELL (Solemn):**
+Start: (00:56.60) | End: (01:00.00)
+"He passed away this morning. And he left you everything."
+
+**CAMERA:**
+Start: (01:00.20) | End: (01:03.60)
+Whip pan to Vanessa, her champagne glass slipping from her fingers.
+
+**SOUND FX:**
+Start: (01:01.80) | End: (01:02.60)
+Glass shatters on the marble floor.
+
+**CAMERA:**
+Start: (01:03.60) | End: (01:07.00)
+Close-up on Derek, the colour draining from his face.
+
+**DEREK (Whispering):**
+Start: (01:03.80) | End: (01:06.40)
+"Everything? That means the hotel..."
+
+**CAMERA:**
+Start: (01:07.00) | End: (01:12.00)
+Slow push-in on Maya as she looks up from the envelope, her expression hardening.
+
+**ACTION:**
+Start: (01:07.00) | End: (01:12.00)
+Maya turns to face Vanessa and Derek, wine still dripping from her hair, and the score swells into the cliffhanger.
+
+--- SCRIPT END ---

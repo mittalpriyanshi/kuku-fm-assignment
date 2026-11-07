@@ -1,0 +1,27 @@
+{
+  "llm": {
+    "preset": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "temperature": null,
+    "maxTokens": 16000,
+    "rpm": 8,
+    "concurrency": 3,
+    "pricePerM": { "input": 0.3, "output": 2.5 }
+  },
+  "judgeLlm": {},
+  "rules": { "minLen": 20, "maxLen": 60, "hookWindow": 3, "cliffTail": 3, "minSegment": 3, "maxSegments": 3 },
+  "proposer": { "mode": "ai", "promosPerEpisode": 2, "momentsPerEpisode": 4, "repair": true, "baselineLen": 40 },
+  "stitch": { "enabled": true, "maxPromos": 6, "maxMoments": 200 },
+  "judge": { "enabled": true, "maxCandidates": 150 },
+  "rank": {
+    "weights": { "hook": 0.35, "cliffhanger": 0.35, "standalone": 0.3 },
+    "earlyBonus": 0.5,
+    "earlyUntilEp": 20,
+    "postableMin": 6,
+    "duplicateOverlap": 0.5,
+    "postFirst": 5,
+    "sameTypePenalty": 1.0,
+    "sameEpisodePenalty": 0.5
+  },
+  "parse": { "llmFallback": true }
+}

@@ -1,0 +1,18 @@
+# Never commit the input pack or outputs: they are Kuku's confidential content.
+data/
+runs/
+scripts/
+*.zip
+.cache/
+.env
+.env.local
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.vercel
+# Hand labels and editor verdicts describe the confidential show too
+gold*.csv
+review*.csv
+transcripts/

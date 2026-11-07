@@ -1,0 +1,8 @@
+EPISODE NUMBER: Episode 7
+EPISODE LOGLINE: A different screenplay layout, used to test the second parser.
+[00:00.0 - 00:03.0] SHOT: Rain on a dark street.
+[00:01.0 - 00:03.0] ACTION: A woman runs, clutching a briefcase.
+[00:03.2 - 00:05.0] LENA (Breathless): "They know I took it."
+[00:05.0 - 00:08.5] SHOT: Headlights flood the alley.
+[00:05.5 - 00:07.9] MAN IN CAR: "Get in, or never see your sister again."
+[00:08.5 - 00:10.0] SFX: A car door slams.
